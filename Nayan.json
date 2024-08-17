@@ -6,14 +6,14 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "JOY-BOT",
+  "BOTNAME": "RAJ-BOT",
   "PREFIX": ".",
   "OPERATOR": [
-    "100065050393649",
+    "61561631686429",
     "100003915536329"
   ],
   "ADMINBOT": [
-    "100065050393649",
+    "61561631686429",
     "100003915536329"
   ],
   "OWNER": ["100000959749712"], 
