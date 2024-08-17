@@ -26,7 +26,7 @@ const media = (
 
 	if (body.indexOf("bot dance koro")==0 || body.indexOf("dance")==0 || body.indexOf("/dance")==0 || body.indexOf("dance")==0 || body.indexOf("dance kori")==0 || body.indexOf("dance")==0 || body.indexOf("nach")==0 || body.indexOf("dance kor")==0 || body.indexOf("nach kor")==0 || body.indexOf("ay dance kori")==0) {
 		var msg = {
-				body: "𝐌𝐃 𝐉𝐔𝐁𝐀𝐄𝐃 𝐀𝐇𝐌𝐌𝐄𝐃 𝐉𝐎𝐘",
+				body: "𝐑𝐀𝐉 𝐀𝐇𝐌𝐄𝐃",
 				attachment: media
 			}
 			api.sendMessage( msg, threadID, messageID);
